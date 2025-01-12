@@ -1,0 +1,3 @@
+quiz-venv/
+*.pyc
+__pycache__/
