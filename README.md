@@ -59,16 +59,6 @@ To deploy the app:
 1. Push the repository to GitHub (already completed).
 2. Follow the steps to deploy your app on [Streamlit Community Cloud](https://streamlit.io/cloud).
 
-## Example Screenshots
-### Home Screen
-![Home Screen](link_to_home_screenshot)
-
-### Quiz Question
-![Quiz Question](link_to_quiz_screenshot)
-
-### Results
-![Results](link_to_results_screenshot)
-
 ## Future Enhancements
 - Add category selection for questions.
 - Expand the question types beyond True/False.
