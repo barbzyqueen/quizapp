@@ -3,6 +3,9 @@
 ## Overview
 The **Dynamic Trivia Quiz App** is a customizable quiz application built using Python and Streamlit. This app allows users to select the number of questions, difficulty levels, and dynamically fetch trivia questions from the Open Trivia Database API. It tests users' knowledge while providing immediate feedback and scoring.
 
+## Quiz App URL
+https://trivia-quiz-app.streamlit.app/
+
 ## Features
 - Dynamic question fetching from the [Open Trivia Database API](https://opentdb.com/).
 - User-selectable number of questions (5-20).
